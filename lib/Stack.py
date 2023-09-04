@@ -23,3 +23,6 @@ class Stack:
 
     def search(self, target):
         pass
+
+def stand(self,target):
+    pass
